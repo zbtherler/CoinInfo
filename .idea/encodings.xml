@@ -2,6 +2,8 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/coin-info-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-info-mapper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coin-info-pojo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/coin-info/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/coin-info/src/main/resources" charset="UTF-8" />
     <file url="file://D:/development soft/maven/local-res/org/springframework/boot/spring-boot-starter-parent/2.3.5.RELEASE/src/main/resources" charset="UTF-8" />

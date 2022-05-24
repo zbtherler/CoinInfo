@@ -9,6 +9,8 @@
     <version>0.0.1-coin.info</version>
     <modules>
         <module>../coin-info-common</module>
+        <module>../coin-info-mapper</module>
+        <module>../coin-info-pojo</module>
     </modules>
     <packaging>pom</packaging>
 
