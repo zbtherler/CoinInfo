@@ -6,6 +6,7 @@
         <artifactId>coin-info</artifactId>
         <groupId>com.coin.info</groupId>
         <version>0.0.1-coin.info</version>
+        <relativePath>../coin-info/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
